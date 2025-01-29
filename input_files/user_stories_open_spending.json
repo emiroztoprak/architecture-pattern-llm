@@ -1,4 +1,5 @@
 {
+    "description": "This concerns the OpenSpending project, a transparency initiative by the Open Knowledge Foundation focused on how local governments spend money, with a particular emphasis on publishing, importing, editing, and presenting datasets.",
     "Usability & Accessibility": [
       "As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple dimensions and measures, So that I can get more granular views on the data.",
       "As a Data Consuming User, I want to be able to change the display of all monetary measures across a set of currencies, So that I can understand localised amounts in non-localised figures.",
