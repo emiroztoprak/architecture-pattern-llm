@@ -1,0 +1,8 @@
+{
+    "archives_space": [4, 2, 1, 4, 1, 4, 5],
+    "neurohub": [5, 3, 1, 3, 1, 3, 5],
+    "open_spending": [4, 3, 1, 4, 4, 2, 4],
+    "planning_poker": [5, 3, 1, 3, 1, 2, 5], 
+    "recycling": [5, 2, 1, 3, 1, 1, 5],
+    "color_ide": [3, 2, 5, 1, 1, 2, 1]
+}
